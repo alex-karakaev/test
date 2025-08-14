@@ -28,4 +28,4 @@
 
 **Actual result**: The character has no helmet or hair on their head.
 
-![Bug's picture](./screenshots/bug3.png)
+![Bug's picture](../screenshots/bug3.png)
