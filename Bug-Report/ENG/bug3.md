@@ -1,4 +1,4 @@
-##3. Character hair disappears from the model in the inventory.
+#3. Character hair disappears from the model in the inventory.
 
 **Type**: Bug
 
