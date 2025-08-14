@@ -1,4 +1,4 @@
-##1. Character freezes in animation.
+# 1. Character freezes in animation.
 
 **Type**: Bug
 
