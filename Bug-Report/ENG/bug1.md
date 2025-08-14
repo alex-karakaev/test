@@ -14,7 +14,7 @@
 
 **Short description**: Characters remain in the climbing animation after simultaneously pushing off from the ladder. 
 
-**Description**: If two characters interact with the ladder at the same time and, while the climbing animation is playing, push them with any object—a grenade, a pull spell, or a push spell—both characters will fall, but their state will not change, and they will remain in the climbing animation. Further interaction with them will not produce any results. Both characters will fall, but their status will not change, and they will remain in the climbing animation. Further interaction with them will not produce any results; both will remain “stuck” in one place and continue to “climb.” To fix this, you need to load the last save.
+**Description**: If two characters interact with the ladder at the same time and, while the climbing animation is playing, push them with any object - a grenade, a pull spell, or a push spell - both characters will fall, but their state will not change, and they will remain in the climbing animation. Further interaction with them will not produce any results. Both characters will fall, but their status will not change, and they will remain in the climbing animation. Further interaction with them will not produce any results; both will remain “stuck” in one place and continue to “climb.” To fix this, you need to load the last save.
 
 **Steps to reproduce**:
 1. Enter the game and load the save file.
