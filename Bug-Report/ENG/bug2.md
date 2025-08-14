@@ -1,4 +1,4 @@
-##2. Disappearance of level textures after cutscene.
+# 2. Disappearance of level textures after cutscene.
 
 **Type**: Bug
 
