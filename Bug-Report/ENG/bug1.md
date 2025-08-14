@@ -28,4 +28,4 @@
 
 **Actual result**: the character “freezes” in one animation and does not respond to interaction with him.
 
-![Bug's picture](Bug-Report/screenshots/bug1.png)
+![Bug's picture](../screenshots/bug1.png)
