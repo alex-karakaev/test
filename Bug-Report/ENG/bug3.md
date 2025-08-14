@@ -14,7 +14,7 @@
 
 **Brief description**: When wearing a helmet and switching its display mode, the character's hair disappears on the miniature in the inventory. 
 
-**Description**: If you put on one specific helmet (the bug did not occur with others) and select the option “Do not display helmet in dialogues,” then when you re-enter the inventory, you will see that the hair on the character's thumbnail is not displayed. The bug also appeared in the co-op lobby—the textures were not displayed for other players either. 
+**Description**: If you put on one specific helmet (the bug did not occur with others) and select the option “Do not display helmet in dialogues,” then when you re-enter the inventory, you will see that the hair on the character's thumbnail is not displayed. The bug also appeared in the co-op lobby - the textures were not displayed for other players either. 
 
 **Steps to reproduce**:
 1. Go to the inventory.
