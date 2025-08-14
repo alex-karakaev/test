@@ -1,4 +1,4 @@
-##2. Disappearance of level textures after cutscene.
+# 2. Disappearance of level textures after cutscene.
 
 **Type**: Bug
 
@@ -27,4 +27,4 @@
 
 **Actual result**: the characters move further on the platform, but the textures of the Temple itself and the surroundings are no longer there.
 
-![Bug's picture](./screenshots/bug2.png)
+![Bug's picture](../screenshots/bug2.png)
